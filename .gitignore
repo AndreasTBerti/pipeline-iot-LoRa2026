@@ -1,0 +1,19 @@
+# Variáveis de Ambiente (Credenciais)
+.env
+
+# Ambientes Virtuais Python
+venv/
+.venv/
+env/
+ENV/
+
+# Arquivos gerados pelo Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de IDEs e Editores
+.vscode/
+.idea/
+*.swp
+*.swo
